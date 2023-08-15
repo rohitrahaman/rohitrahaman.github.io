@@ -18,37 +18,36 @@ let products = [
         id: 1,
         name: 'PRODUCT NAME 1',
         image: '1.PNG',
-        price: 200 TK
+        price: 200
     },
     {
         id: 2,
         name: 'PRODUCT NAME 2',
         image: '2.PNG',
-        price: 250 TK
+        price: 250
     },
     {
         id: 3,
         name: 'PRODUCT NAME 3',
         image: '3.PNG',
-        price: 350 TK
+        price: 350
     },
     {
         id: 4,
         name: 'PRODUCT NAME 4',
         image: '4.PNG',
-        price: 500 TK
-    },
+        price: 500
     {
         id: 5,
         name: 'PRODUCT NAME 5',
         image: '5.PNG',
-        price: 100 TK
+        price: 100
     },
     {
         id: 6,
         name: 'PRODUCT NAME 6',
         image: '6.PNG',
-        price: 450 TK
+        price: 450 
     }
 ];
 let listCards = [];
